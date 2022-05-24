@@ -1,0 +1,6 @@
+Id,nome,cognome,punti
+1,andrea,rossi,0
+2,giorgio,verdi,23
+3,gino,fumagalli,28
+5,andrea,marchese,12
+4,giovanni,parenti,12
